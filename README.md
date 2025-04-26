@@ -26,3 +26,4 @@ Este currículo é especialmente focado em **NLP** e **LLMs**, mas pode ser adap
 > **Fonte de inspiração:**  
 > _Roadmap to Learn AI in 2024 — A free curriculum for hackers and programmers to learn AI_  
 > por **Benedict Neo** (publicado em 9 de fevereiro de 2024)
+> https://medium.com/bitgrit-data-science-publication/a-roadmap-to-learn-ai-in-2024-cc30c6aa6e16
